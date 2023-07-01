@@ -3,32 +3,6 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class valid_anagram {
-    public static void main(String[] args) {
-        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        String s, t;
-        try {
-            s = reader.readLine();
-
-            t = reader.readLine();
-
-            Solution solution = new Solution();
-            boolean isAnagram = solution.isAnagram(s, t);
-
-            System.out.println(isAnagram);
-            
-        } catch (IOException e) {
-            e.printStackTrace();
-        } finally {
-            try {
-                reader.close();
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-        }
-    }
-}
-
-class Solution {
     public boolean isAnagram(String s, String t) {
         // Check if the lengths of the two strings are equal
         if (s.length() != t.length()) return false;
@@ -53,4 +27,31 @@ class Solution {
         // If all character counts are zero, the strings are anagrams
         return true;
     }
+    public static void main(String[] args) {
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        String s, t;
+        try {
+            s = reader.readLine();
+
+            t = reader.readLine();
+
+            valid_anagram solution = new valid_anagram();
+            boolean isAnagram = solution.isAnagram(s, t);
+
+            System.out.println(isAnagram);
+            
+        } catch (IOException e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                reader.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+}
+
+class Solution {
+    
 }

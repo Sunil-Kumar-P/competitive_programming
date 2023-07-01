@@ -5,6 +5,16 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class contains_duplicates {
+    public boolean containsDuplicate(int[] nums) {
+        Set<Integer> uniques = new HashSet<>();
+        for (int i = 0; i < nums.length; i++) {
+            if (uniques.contains(nums[i])) {
+                return true;
+            }
+            uniques.add(nums[i]);
+        }
+        return false;
+    }
     public static void main(String[] args) {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         int n;
@@ -17,7 +27,7 @@ public class contains_duplicates {
                 nums[i] = Integer.parseInt(reader.readLine());
             }
 
-            SolutionCD solution = new SolutionCD();
+            contains_duplicates solution = new contains_duplicates();
             boolean containsDuplicate = solution.containsDuplicate(nums);
 
             System.out.println(containsDuplicate);
@@ -30,18 +40,5 @@ public class contains_duplicates {
                 e.printStackTrace();
             }
         }
-    }
-}
-
-class SolutionCD {
-    public boolean containsDuplicate(int[] nums) {
-        Set<Integer> uniques = new HashSet<>();
-        for (int i = 0; i < nums.length; i++) {
-            if (uniques.contains(nums[i])) {
-                return true;
-            }
-            uniques.add(nums[i]);
-        }
-        return false;
     }
 }
