@@ -51,7 +51,3 @@ public class valid_anagram {
         }
     }
 }
-
-class Solution {
-    
-}
