@@ -1,5 +1,8 @@
 # competitive_programming 
 
-## Contains Duplicates : Python
-
+## 1. Two Sum : Python
+## 1480. Running Sum 1d array : Python
+## 217. Contains Duplicates : Python
+## 121. Max Profit : Python
+## 88. merge Sorted Array : Python
 
