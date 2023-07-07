@@ -1,1 +1,8 @@
-# competitive_programming
+# competitive_programming 
+
+## 1. Two Sum : Python.
+## 1480. Running Sum 1d array : Python.
+## 217. Contains Duplicates : Python, Java, cpp, Javascript.
+## 121. Max Profit : Python.
+## 88. merge Sorted Array : Python, Java, cpp, JavaScript.
+
