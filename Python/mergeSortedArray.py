@@ -10,7 +10,7 @@
 # Explanation: The arrays we are merging are [1,2,3] and [2,5,6].
 # The result of the merge is [1,2,2,3,5,6] with the underlined elements coming from nums1.
 
-def merge(nums1: list[int], m: int, nums2: list[int], n: int) -> None:
+def merge(nums1, m, nums2, n):
     p1 = m - 1
     p2 = n - 1
     p = m + n - 1

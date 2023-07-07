@@ -4,7 +4,7 @@
 # Input: nums = [1,2,3,1]
 # Output: true
 
-def containsDuplicate(nums: list[int]) -> bool:
+def containsDuplicate(nums):
     hashset = set()
     for n in nums:
         if n in hashset:
