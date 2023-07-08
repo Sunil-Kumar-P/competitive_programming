@@ -8,9 +8,15 @@
 # Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 
 def twoSum(nums, target):
-    for i in range(len(nums)):
-        for j in range(i+1, len(nums)):
-            if nums[i]+nums[j] == target:
-                return [i, j]
+# for i in range(len(nums)):
+    #     for j in range(i+1, len(nums)):
+    #         if nums[i]+nums[j] == target:
+    #             return [i, j]
+    diffs = {}
+
+    for i, e in enumerate(nums):
+        if e in diffs:
+            return [i, diffs[e]]
+        diffs[target - e] = i
             
 print(twoSum(nums = [2,7,11,15], target = 9))

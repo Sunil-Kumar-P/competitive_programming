@@ -10,3 +10,4 @@
 ### 350. Intersection of Two Arrays II
 ### 66. Plus One : Python
 ### 283. Move Zeroes : Python
+### 36. Valid Sudoku : Python, Java
