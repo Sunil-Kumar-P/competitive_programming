@@ -25,3 +25,5 @@
 ### 48. Rotate Image : Python, Java
 
 ### 26. Remove Duplicates from Sorted Array : Python
+
+### 7. Reverse Integer : Python, Java
