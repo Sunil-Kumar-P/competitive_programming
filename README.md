@@ -6,11 +6,11 @@
 
 ### 1480. Running Sum 1d array : Python
 
-### 217. Contains Duplicates : Python, Java, cpp, Javascript
+### 217. Contains Duplicates : Python, Java, Cpp, Javascript
 
 ### 121. Max Profit : Python
 
-### 88. merge Sorted Array : Python, Java, cpp, JavaScript
+### 88. merge Sorted Array : Python, Java, Cpp, JavaScript
 
 ### 136. Single Number : Python
 
@@ -28,5 +28,4 @@
 
 ### 7. Reverse Integer : Python, Java
 
-### 387. First Unique Character in a String : Python, Java
-
+### 387. First Unique Character in a String : Python, Java, Cpp, JavaScript
