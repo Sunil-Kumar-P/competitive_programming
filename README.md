@@ -27,3 +27,6 @@
 ### 26. Remove Duplicates from Sorted Array : Python
 
 ### 7. Reverse Integer : Python, Java
+
+### 387. First Unique Character in a String : Python, Java
+
