@@ -29,3 +29,5 @@
 ### 7. Reverse Integer : Python, Java
 
 ### 387. First Unique Character in a String : Python, Java, Cpp, JavaScript
+
+### 242. Valid Anagram : Python, Java, Cpp, JavaScript
