@@ -2,32 +2,93 @@
 
 ## Leet Code Interview Section
 
-### 1. Two Sum : Python
+## PYTHON
 
-### 1480. Running Sum 1d array : Python
+```Python
+1. Two Sum 
 
-### 217. Contains Duplicates : Python, Java, Cpp, Javascript
+1480. Running Sum 1d array
 
-### 121. Max Profit : Python
+217. Contains Duplicates
 
-### 88. merge Sorted Array : Python, Java, Cpp, JavaScript
+121. Max Profit 
 
-### 136. Single Number : Python
+88. merge Sorted Array 
 
-### 350. Intersection of Two Arrays II : Python
+136. Single Number 
 
-### 66. Plus One : Python
+350. Intersection of Two Arrays II 
 
-### 283. Move Zeroes : Python
+66. Plus One 
 
-### 36. Valid Sudoku : Python, Java
+283. Move Zeroes 
 
-### 48. Rotate Image : Python, Java
+36. Valid Sudoku
 
-### 26. Remove Duplicates from Sorted Array : Python
+48. Rotate Image 
 
-### 7. Reverse Integer : Python, Java
+26. Remove Duplicates from Sorted Array 
 
-### 387. First Unique Character in a String : Python, Java, Cpp, JavaScript
+7. Reverse Integer 
 
-### 242. Valid Anagram : Python, Java, Cpp, JavaScript
+387. First Unique Character in a String 
+
+242. Valid Anagram 
+
+125. Valid Palindrome
+```
+____
+
+## JAVA
+
+```Java
+217. Contains Duplicates
+
+88. merge Sorted Array 
+
+36. Valid Sudoku 
+
+48. Rotate Image 
+
+7. Reverse Integer 
+
+387. First Unique Character in a String 
+
+242. Valid Anagram 
+
+125. Valid Palindrome
+```
+
+___
+
+## JAVASCRIPT
+
+```JavaScript
+217. Contains Duplicates
+
+88. merge Sorted Array 
+
+387. First Unique Character in a String 
+
+242. Valid Anagram 
+
+125. Valid Palindrome
+
+```
+
+___
+
+## CPP
+
+``` CPP
+217. Contains Duplicates
+
+88. merge Sorted Array 
+
+387. First Unique Character in a String 
+
+242. Valid Anagram 
+
+125. Valid Palindrome
+
+```
