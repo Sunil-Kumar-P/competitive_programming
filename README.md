@@ -13,7 +13,7 @@
 
 121. Max Profit 
 
-88. merge Sorted Array 
+88. Merge Sorted Array 
 
 136. Single Number 
 
@@ -44,7 +44,7 @@ ____
 ```Java
 217. Contains Duplicates
 
-88. merge Sorted Array 
+88. Merge Sorted Array 
 
 36. Valid Sudoku 
 
@@ -66,7 +66,7 @@ ___
 ```JavaScript
 217. Contains Duplicates
 
-88. merge Sorted Array 
+88. Merge Sorted Array 
 
 387. First Unique Character in a String 
 
@@ -83,7 +83,7 @@ ___
 ``` CPP
 217. Contains Duplicates
 
-88. merge Sorted Array 
+88. Merge Sorted Array 
 
 387. First Unique Character in a String 
 
