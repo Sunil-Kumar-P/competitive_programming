@@ -1,3 +1,4 @@
+# 2. Execute the given function.
 # def LargeSmallSum(arr)
 # The function takes an integral arr which is of the size or length of its arguments. Return the sum
 # of the second smallest element at odd position ‘arr’ and the second largest element at the even
