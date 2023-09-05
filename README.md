@@ -3,8 +3,8 @@
 # ACCENTURE CODING QUESTIONS
 
 ```MD
-Difference Of Sum of two Integral
-2nd Largest and Smallest sum
+1. Difference Of Sum of two Integral
+2. 2nd Largest and Smallest sum
 ```
 
 ## Leet Code Interview Section
