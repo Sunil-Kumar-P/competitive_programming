@@ -5,4 +5,5 @@
 2. 2nd Largest and Smallest sum
 3. Anagram
 4. Product of Small Pair
+5. Decimal To N base 
 ```
